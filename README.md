@@ -4,17 +4,17 @@
 
 Built for **AstroHack 2026: Build the Next Universe**
 
-🔗 **Live demo:** _[add your deployed Vercel URL here]_
+🔗 **Live demo:** https://astro-live-daily.vercel.app/
 
 ---
 
 ## The problem
 
-AstroLive today is a **pull** product: users must remember it exists, open the platform, and actively seek out a consultation. That creates three structural weaknesses —
+AstroLive today is a **pull** product: users must remember it exists, open the platform, and actively seek out a consultation. That creates three structural weaknesses;
 
 1. **No organic growth loop.** Nothing about using AstroLive naturally produces a new user.
 2. **No habit formation.** There's no reason to open the app on a random Tuesday if nothing is happening there.
-3. **Revenue is capped to active-seeking users** — anyone who doesn't proactively return generates nothing.
+3. **Revenue is capped to active-seeking users** , anyone who doesn't proactively return generates nothing.
 
 ## The solution
 
@@ -47,7 +47,7 @@ WhatsApp simulator (real horoscope + real AI chat, Gemini-backed)
 Engagement, streaks, Cosmic Cards, referrals
 ```
 
-Real WhatsApp delivery via Meta's Cloud API was scoped and attempted (see report for the account-verification blocker encountered), and the architecture is intentionally structured so the simulator's endpoints can be swapped for Meta's webhook without touching the astrology, AI, or database layers.
+Real WhatsApp delivery via Meta's Cloud API was scoped and attempted (see report for the account verification blocker encountered), and the architecture is intentionally structured so the simulator's endpoints can be swapped for Meta's webhook without touching the astrology, AI, or database layers.
 
 ## Tech stack
 
@@ -103,5 +103,5 @@ In line with the submission guidelines' citation requirement:
 
 ### Authors
 
-- **Namrata Singh**
 - **Hiya Porwal**
+- **Namrata Singh**
