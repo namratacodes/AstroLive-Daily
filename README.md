@@ -128,8 +128,5 @@ If this moved beyond prototype stage, the priority order would be:
 
 ## Authors
 
-- Hiya Porwal
-- Namrata Singh
-
 - **Hiya Porwal**
 - **Namrata Singh**
